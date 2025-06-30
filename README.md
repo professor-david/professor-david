@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=PHP+%26+Flutter+Developer;API+Master+%F0%9F%9A%80;Mobile+App+Creator;Backend+Wizard;Learning+Python+%F0%9F%90%8D;Code+%2B+Coffee+%3D+Magic+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=PHP+%26+Flutter+Developer;API+Master+%F0%9F%9A%80;Mobile+App+Creator;Backend+Wizard;Learning+Python+%F0%9F%90%8D;Code+%2B+Coffee+%3D+Magic+%E2%98%95)](https://github.com/DenverCoder1/readme-typing-svg)
+
 
 </div>
 
