@@ -1,41 +1,18 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+My+World!&animation=fadeIn&type=waving&color=gradient&height=200"/>
-</p>
+# Hi there, I'm [Your Name] 👋
 
-<h1 align="center">👋 Hello, I'm Professor David</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF2E63&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
-  🚀 I’m a developer, engineer & technology educator. <br>
-  💡 Passionate about Open Source, DevOps & Web3.
-</p>
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
----
+## 📈 GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-### 🛠️ My Toolbox
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-</p>
-
----
-
-### 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=professor-david&show_icons=true&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=professor-david&theme=radical"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-NAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
